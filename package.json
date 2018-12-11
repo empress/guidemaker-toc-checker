@@ -1,6 +1,6 @@
 {
   "name": "guidemaker-toc-checker",
-  "version": "1.0.0",
+  "version": "0.0.0",
   "description": "Mocha based testing system for checking guidemaker table of contents",
   "license": "ISC",
   "author": "Chris Manson <chris.manson@simplabs.com>",
